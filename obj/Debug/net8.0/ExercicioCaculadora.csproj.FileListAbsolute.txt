@@ -1,0 +1,15 @@
+/workspaces/ExercicioCaculadora/bin/Debug/net8.0/ExercicioCaculadora
+/workspaces/ExercicioCaculadora/bin/Debug/net8.0/ExercicioCaculadora.deps.json
+/workspaces/ExercicioCaculadora/bin/Debug/net8.0/ExercicioCaculadora.runtimeconfig.json
+/workspaces/ExercicioCaculadora/bin/Debug/net8.0/ExercicioCaculadora.dll
+/workspaces/ExercicioCaculadora/bin/Debug/net8.0/ExercicioCaculadora.pdb
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.AssemblyInfoInputs.cache
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.AssemblyInfo.cs
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.csproj.CoreCompileInputs.cache
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.sourcelink.json
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.dll
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/refint/ExercicioCaculadora.dll
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.pdb
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ExercicioCaculadora.genruntimeconfig.cache
+/workspaces/ExercicioCaculadora/obj/Debug/net8.0/ref/ExercicioCaculadora.dll
